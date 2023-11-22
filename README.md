@@ -1,3 +1,7 @@
+# To run the project:
+First, you need to write **npm install** in the terminal.
+After that, just write **npm start** and you will start the api and the todo list app at the same time!
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
